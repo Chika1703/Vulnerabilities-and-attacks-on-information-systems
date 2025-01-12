@@ -38,8 +38,8 @@
 1.2 Обнаруженные уязвимости:
 
 * Уязвимость: Backdoor Command Execution
-*  Ссылка: https://www.exploit-db.com/exploits/17491
-*  UnrealIRCd (порт 6667)
+*    Ссылка: https://www.exploit-db.com/exploits/17491
+*    UnrealIRCd (порт 6667)
 
 * Уязвимость: Remote Code Execution (Backdoor)
 *  Ссылка: https://www.exploit-db.com/exploits/16922

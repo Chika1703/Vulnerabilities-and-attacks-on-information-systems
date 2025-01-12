@@ -38,15 +38,15 @@
 1.2 Обнаруженные уязвимости:
 
 * Уязвимость: Backdoor Command Execution
-*    Ссылка: https://www.exploit-db.com/exploits/17491
-*    UnrealIRCd (порт 6667)
+  * Ссылка: https://www.exploit-db.com/exploits/17491
+  * UnrealIRCd (порт 6667)
 
 * Уязвимость: Remote Code Execution (Backdoor)
-*  Ссылка: https://www.exploit-db.com/exploits/16922
-*  Apache Tomcat (порт 8180)
+  * Ссылка: https://www.exploit-db.com/exploits/16922
+  * Apache Tomcat (порт 8180)
 
 * Уязвимость: Manager Application Default Credentials
-* Ссылка: https://www.exploit-db.com/exploits/10289
+  * Ссылка: https://www.exploit-db.com/exploits/10289
 
 
 

@@ -20,6 +20,38 @@
 
 *Приведите ответ в свободной форме.*
 
+**Решение**
+
+1.1 Открытые сетевые службы:
+* FTP (порт 21): vsftpd 2.3.4
+* SSH (порт 22): OpenSSH 4.7p1 Debian 8ubuntu1
+* Telnet (порт 23): Linux telnetd
+* SMTP (порт 25): Postfix smtpd
+* DNS (порт 53): ISC BIND 9.4.2
+* HTTP (порт 80): Apache httpd 2.2.8
+* Samba (порты 139, 445): smbd 3.X - 4.X
+* MySQL (порт 3306): MySQL 5.0.51a
+* PostgreSQL (порт 5432): PostgreSQL 8.3.0 - 8.3.7
+* UnrealIRCd (порт 6667): UnrealIRCd
+* Apache Tomcat (порт 8180): Coyote JSP Engine 1.1
+
+1.2 Обнаруженные уязвимости:
+
+* Уязвимость: Backdoor Command Execution
+*  Ссылка: https://www.exploit-db.com/exploits/17491
+*  UnrealIRCd (порт 6667)
+
+* Уязвимость: Remote Code Execution (Backdoor)
+*  Ссылка: https://www.exploit-db.com/exploits/16922
+*  Apache Tomcat (порт 8180)
+
+* Уязвимость: Manager Application Default Credentials
+* Ссылка: https://www.exploit-db.com/exploits/10289
+
+
+
+
+
 Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
